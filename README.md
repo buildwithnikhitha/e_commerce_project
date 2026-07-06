@@ -74,3 +74,29 @@ If you’d like to connect or collaborate:
 - LinkedIn: *optional — add if you have a profile*
 
 Feel free to open issues or pull requests — feedback and contributions are always welcome!
+
+
+---
+
+## 🖼️ Screenshots / Preview
+
+### Product Management
+Example of adding and viewing products:
+
+======== PRODUCT LIST ============
+
+ID: P001 | Name: Laptop | Price: 55000 | Qty: 10
+
+ID: P002 | Name: Smartphone | Price: 25000 | Qty: 15
+
+
+### Billing System
+Example of generating a bill:
+
+============ BILL =============
+
+Laptop (x2) - ₹110000
+Smartphone (x1) - ₹25000
+
+Total Amount: ₹135000
+Thank you for shopping!
