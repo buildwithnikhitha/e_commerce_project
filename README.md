@@ -102,5 +102,3 @@ Total Amount: ₹135000
 Thank you for shopping!
 
 
-## 🎥 Demo
-![Demo](docs/demo.gif)
