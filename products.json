@@ -12,12 +12,6 @@
         "quantity": 20
     },
     {
-        "product_id": "203",
-        "name": "Keyboard",
-        "price": 1200.0,
-        "quantity": 15
-    },
-    {
         "product_id": "204",
         "name": "Headphones",
         "price": 1800.0,
