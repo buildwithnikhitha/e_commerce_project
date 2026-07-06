@@ -35,3 +35,13 @@ cd e_commerce_project
 A Python-based project for managing products, orders, and users with JSON storage.
 
 ---
+---
+
+## 🛣️ Roadmap
+
+- ✅ Initial commit with product, order, and user management
+- 🔄 Add product search functionality
+- 🔄 Implement user authentication
+- 🔄 Generate billing invoices
+- 🔄 Create a GUI or web interface
+- 🔄 Add unit tests for reliability
