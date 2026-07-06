@@ -61,3 +61,16 @@ Contributions are welcome! If you’d like to improve this project:
 2. **Create a new branch**  
    ```bash
    git checkout -b feature-name
+
+
+---
+
+## 📬 Contact
+
+If you’d like to connect or collaborate:
+
+- GitHub: [buildwithnikhitha](https://github.com/buildwithnikhitha)
+- Email: *optional — add if you’re comfortable sharing*
+- LinkedIn: *optional — add if you have a profile*
+
+Feel free to open issues or pull requests — feedback and contributions are always welcome!
